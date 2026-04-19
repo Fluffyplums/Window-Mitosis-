@@ -1,5 +1,7 @@
 # Window-Mitosis-
-A cool little game i made that uses 2 coding engines!--Window Mitosis---
+A cool little game i made that uses 2 coding engines!
+
+--Window Mitosis---
 
 I just made this for no apparent reason lol
 ------------------------------
