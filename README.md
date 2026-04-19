@@ -44,7 +44,7 @@ There is now a shortcut you can use to open the game. Move it to your desktop!
 ------------------
 *Update 5: Added new notifications for the clone windows!
 
-*Now the Quit Box can literally tell you to stop! Or can it?
+*Now the notification box can literally tell you to stop! Or can it?
 ---
 Thanks for testing!... Or playing.
 Look inside the code for yourself!
